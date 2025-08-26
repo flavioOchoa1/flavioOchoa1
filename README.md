@@ -23,8 +23,6 @@ Me apasiona resolver problemas con código y crear proyectos útiles.
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioOchoa1&layout=compact&theme=tokyonight&locale=es)
 ## 🔥 Racha de contribuciones
 ![Racha de GitHub](https://streak-stats.demolab.com?user=flavioOchoa1&theme=tokyonight&locale=es)
-## 🏆 Trofeos de GitHub
-![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=flavioOchoa1&theme=tokyonight&locale=es)
 ## 📬 Contácto
 - [LinkedIn](www.linkedin.com/in/arturoochoa1)
 - [Email](mailto:flavioarturoo@gmail.com)
