@@ -19,12 +19,12 @@ Me apasiona resolver problemas con código y crear proyectos útiles.
 - [Gestor de tareas](https://github.com/flavioOchoa1/crud) → App web con Angular
 - [Entorno educativo](https://github.com/flavioOchoa1/youtube_downloader_web) → Python con Flask  + pytube + Jinja2  + Bootstrap 
 ## 📊 Mis estadísticas
-![Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioOchoa1&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioOchoa1&layout=compact&theme=tokyonight)
-## 📊 Mis estadísticas en Español
 ![Estadísticas de GitHub de Flavio](https://github-readme-stats.vercel.app/api?username=flavioOchoa1&show_icons=true&theme=tokyonight&locale=es)
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioOchoa1&layout=compact&theme=tokyonight&locale=es)
-
+## 🔥 Racha de contribuciones
+![Racha de GitHub](https://streak-stats.demolab.com?user=flavioOchoa1&theme=tokyonight&locale=es)
+## 🏆 Trofeos de GitHub
+![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=flavioOchoa1&theme=tokyonight&locale=es)
 ## 📬 Contácto
 - [LinkedIn](www.linkedin.com/in/arturoochoa1)
 - [Email](mailto:flavioarturoo@gmail.com)
