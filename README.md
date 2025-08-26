@@ -12,6 +12,6 @@ Me apasiona resolver problemas con código y crear proyectos útiles.
 ## 📊 Mis estadísticas
 ![Flavio's GitHub stats](https://github-readme-stats.vercel.app/api?username=flavioOchoa1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioOchoa1&layout=compact&theme=tokyonight)
-## 📬 Contáctame
+## 📬 Contácto
 - [LinkedIn](www.linkedin.com/in/arturoochoa1)
 - [Email](mailto:flavioarturoo@gmail.com)
