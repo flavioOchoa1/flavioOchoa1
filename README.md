@@ -20,7 +20,7 @@ Me apasiona resolver problemas con código y crear proyectos útiles.
 - [Entorno educativo](https://github.com/flavioOchoa1/youtube_downloader_web) → Python con Flask  + pytube + Jinja2  + Bootstrap 
 ## 📊 Mis estadísticas
 ![Estadísticas de GitHub de Flavio](https://github-readme-stats.vercel.app/api?username=flavioOchoa1&show_icons=true&theme=tokyonight&locale=es)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioOcho
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=flavioOchoa1&layout=compact&theme=tokyonight&locale=es)
 # 📊 Diagrama de actividad
 ![Gráfico de actividad](https://github-readme-activity-graph.vercel.app/graph?username=flavioOchoa1&theme=react-dark)
 ## 📬 Contácto
